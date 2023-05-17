@@ -4,4 +4,4 @@ Gerar Arquivo PADRAO DBT627 150 bits de remessa e processar retorno para Débito
 
 Documentação de validação do Layout DBT627 150 bits: https://cmsportal.febraban.org.br/Arquivos/documentos/PDF/Layout%20-%20Deb%20-%20Vers%2006%20-%2001_08_2016%20v2.pdf
 
-Replies To marcio@suhdo.com
+
